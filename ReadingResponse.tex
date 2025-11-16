@@ -1,0 +1,142 @@
+\documentclass[12pt,a4paper]{article}
+
+% 中文支持
+\usepackage{ctex}
+\usepackage[UTF8]{ctex}
+
+% 页面设置
+\usepackage{geometry}
+\geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm,headheight=15pt}
+
+% 字体设置
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+
+% 行距设置
+\usepackage{setspace}
+\setstretch{1.5} % 20磅行距约为1.5倍行距
+
+% 超链接
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=blue
+}
+
+% 标题格式
+\usepackage{titlesec}
+\titleformat{\section}{\heiti\zihao{-3}\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\heiti\zihao{4}\bfseries}{\thesubsection}{1em}{}
+
+% 页眉页脚
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{马克思主义经典著作阅读报告}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% 首页无页眉页脚
+\fancypagestyle{plain}{
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0pt}
+}
+
+\begin{document}
+
+% 封面
+\begin{titlepage}
+    \centering
+    \vspace*{3cm}
+    
+    {\heiti\zihao{1}\bfseries 马克思主义经典著作\\[0.5cm]阅读报告}
+    
+    \vspace{3cm}
+    
+    {\heiti\zihao{-2}\bfseries 《经典著作名称》读书报告}
+    
+    \vspace{4cm}
+    
+    \begin{spacing}{2.0}
+    {\songti\zihao{-3}
+    \begin{tabular}{cl}
+        \textbf{院\hspace{2em}系：} & \underline{\makebox[8cm][c]{光学与电子信息学院}} \\[0.8cm]
+        \textbf{班\hspace{2em}级：} & \underline{\makebox[8cm][c]{光电信息科学与工程202409班}} \\[0.8cm]
+        \textbf{学\hspace{2em}号：} & \underline{\makebox[8cm][c]{U202413925}} \\[0.8cm]
+        \textbf{姓\hspace{2em}名：} & \underline{\makebox[8cm][c]{陈恪瑾}} \\[0.8cm]
+        \textbf{提交日期：} & \underline{\makebox[8cm][c]{2025年11月25日}} \\
+    \end{tabular}
+    }
+    \end{spacing}
+    
+    \vfill
+\end{titlepage}
+
+% 设置页码从正文开始
+\setcounter{page}{1}
+
+% 正文
+\section*{《经典著作名称》读书报告}
+\addcontentsline{toc}{section}{《经典著作名称》读书报告}
+
+% 三号黑体标题，正文小四号宋体，行距20磅
+{\heiti\zihao{3}\textbf{一、写作背景}}
+
+\songti\zihao{-4}
+在这里简要介绍经典著作的写作背景，包括历史背景、社会背景、作者的写作动机等。这部分内容可以略写。
+
+例如：《共产党宣言》写于1847年底至1848年初，当时欧洲正处于资本主义迅速发展时期，无产阶级与资产阶级的矛盾日益尖锐。马克思和恩格斯受共产主义者同盟委托，起草了这份纲领性文件。
+
+{\heiti\zihao{3}\textbf{二、主要观点}}
+
+在这里系统阐述经典著作的主要观点和核心思想，这是报告的重点部分。建议分点论述，条理清晰。
+
+\subsection*{（一）第一个主要观点}
+详细阐述第一个主要观点的内容、论证过程和理论意义。可以引用原文，并进行分析和评论。
+
+\subsection*{（二）第二个主要观点}
+详细阐述第二个主要观点的内容、论证过程和理论意义。
+
+\subsection*{（三）第三个主要观点}
+详细阐述第三个主要观点的内容、论证过程和理论意义。
+
+{\heiti\zihao{3}\textbf{三、所获启发}}
+
+在这里谈谈阅读这部经典著作后的收获、启发和思考，可以联系实际，谈谈对当代社会的启示意义。
+
+\subsection*{（一）理论层面的启发}
+从理论角度谈谈自己的收获和思考。
+
+\subsection*{（二）实践层面的启发}
+从实践角度谈谈如何将经典理论应用于分析和解决现实问题。
+
+\subsection*{（三）个人成长的启发}
+谈谈阅读经典著作对个人思想认识和价值观的影响。
+
+{\heiti\zihao{3}\textbf{四、总结}}
+
+对整个阅读过程和收获进行总结，可以谈谈自己对马克思主义经典著作的认识，以及今后的学习计划。
+
+注意：正文字数不少于2500字，重复率低于20\%。
+
+% 参考文献
+\newpage
+{\heiti\zihao{3}\textbf{参考文献}}
+
+\begin{thebibliography}{99}
+    \bibitem{reference1} 马克思，恩格斯. 共产党宣言［M］. 北京：人民出版社，2018.
+    
+    \bibitem{reference2} 作者姓名. 文章题目［J］. 期刊名称，年份，卷号（期号）：起止页码.
+    
+    \bibitem{reference3} 作者姓名. 书名［M］. 出版地：出版社，出版年份.
+    
+    \bibitem{reference4} 作者姓名. 学位论文题目［D］. 城市：大学名称，年份.
+    
+    \bibitem{reference5} 作者姓名. 论文题目［C］//编者. 论文集名称. 出版地：出版社，年份：起止页码.
+\end{thebibliography}
+
+\end{document}
