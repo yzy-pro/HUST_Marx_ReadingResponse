@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.27)  16 NOV 2025 12:09
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.27)  21 NOV 2025 13:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -549,21 +549,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [2]
 
-[3] (./ReadingResponse.aux)
+[3]
+
+[4]
+
+[5] (./ReadingResponse.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/07/14>
  ***********
 Package rerunfilecheck Info: File `ReadingResponse.out' has not changed.
-(rerunfilecheck)             Checksum: CA2E312606028DADFDE8FB1921209948;139.
+(rerunfilecheck)             Checksum: 8A90B3D66AB0410EE18A4270632FD7CE;203.
  ) 
 Here is how much of TeX's memory you used:
- 14602 strings out of 470267
- 331913 string characters out of 5484665
- 728463 words of memory out of 5000000
- 41035 multiletter control sequences out of 15000+600000
+ 14770 strings out of 470267
+ 344965 string characters out of 5484665
+ 740527 words of memory out of 5000000
+ 41203 multiletter control sequences out of 15000+600000
  631925 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,12n,112p,397b,416s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,11n,112p,397b,374s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on ReadingResponse.xdv (4 pages, 19588 bytes).
+Output written on ReadingResponse.xdv (6 pages, 68772 bytes).
