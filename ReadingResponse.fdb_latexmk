@@ -1,25 +1,28 @@
 # Fdb version 4
-["xdvipdfmx"] 1763733882.67048 "ReadingResponse.xdv" "ReadingResponse.pdf" "ReadingResponse" 1763733882.86645 0
-  "ReadingResponse.xdv" 1763733882.62916 125864 8074a76b1b8c118aec5e78fbed6804d8 "xelatex"
+["xdvipdfmx"] 1763734194.07838 "ReadingResponse.xdv" "ReadingResponse.pdf" "ReadingResponse" 1763734194.2929 0
+  "ReadingResponse.xdv" 1763734194.03736 126396 6032f245a0bc15e32c7661528f17bd1e "xelatex"
   (generated)
   "ReadingResponse.pdf"
   (rewritten before read)
-["xelatex"] 1763733881.97921 "/home/yzy/code/Marx/ReadingResponse.tex" "ReadingResponse.xdv" "ReadingResponse" 1763733882.8655 0
-  "/home/yzy/code/Marx/ReadingResponse.tex" 1763733878.76595 22227 924ca0167bf35e82311cb52363d47b19 ""
+["xelatex"] 1763734193.36947 "/home/yzy/code/Marx/ReadingResponse.tex" "ReadingResponse.xdv" "ReadingResponse" 1763734194.29191 0
+  "/home/yzy/code/Marx/ReadingResponse.tex" 1763734174.40443 22276 e7ffb5647de60bbe4864ac9965e4b168 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm" 1136768653 1528 e2423ae06dc7dee599cceb79d1c9dc32 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm" 1136768653 1524 d89e2d087a9828407a196f428428ef4a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1136768653 1300 b62933e007d01cfd073f79b963c01526 ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr7.tfm" 1136768653 1300 53d07721103816e093902637bc167021 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy7.tfm" 1136768653 1120 2b3f9b25605010c69bc328bea6ac000f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1136768653 1116 25a7bf822c58caf309a702ef79f4afbb ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -91,9 +94,9 @@
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "/usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1745761497 5854851 9405beb4c6cd273e0bd26aa5e146f3e8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1745761447.97632 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "ReadingResponse.aux" 1763733882.62777 284 6c7905be83e0a1d893f826819bb2d018 "xelatex"
-  "ReadingResponse.out" 1763733882.62877 179 60cd15b441698c636f5aa11e3f502e19 "xelatex"
-  "ReadingResponse.tex" 1763733878.76595 22227 924ca0167bf35e82311cb52363d47b19 ""
+  "ReadingResponse.aux" 1763734194.03623 284 6c7905be83e0a1d893f826819bb2d018 "xelatex"
+  "ReadingResponse.out" 1763734194.03623 179 60cd15b441698c636f5aa11e3f502e19 "xelatex"
+  "ReadingResponse.tex" 1763734174.40443 22276 e7ffb5647de60bbe4864ac9965e4b168 ""
   (generated)
   "ReadingResponse.aux"
   "ReadingResponse.log"
