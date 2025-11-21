@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1763734194.07838 "ReadingResponse.xdv" "ReadingResponse.pdf" "ReadingResponse" 1763734194.2929 0
-  "ReadingResponse.xdv" 1763734194.03736 126396 6032f245a0bc15e32c7661528f17bd1e "xelatex"
+["xdvipdfmx"] 1763734544.24418 "ReadingResponse.xdv" "ReadingResponse.pdf" "ReadingResponse" 1763734544.44331 0
+  "ReadingResponse.xdv" 1763734544.20471 126396 b04b9e5a637c321488ada72d97c7126c "xelatex"
   (generated)
   "ReadingResponse.pdf"
   (rewritten before read)
-["xelatex"] 1763734193.36947 "/home/yzy/code/Marx/ReadingResponse.tex" "ReadingResponse.xdv" "ReadingResponse" 1763734194.29191 0
-  "/home/yzy/code/Marx/ReadingResponse.tex" 1763734174.40443 22276 e7ffb5647de60bbe4864ac9965e4b168 ""
+["xelatex"] 1763734543.55709 "/home/yzy/code/Marx/ReadingResponse.tex" "ReadingResponse.xdv" "ReadingResponse" 1763734544.44231 0
+  "/home/yzy/code/Marx/ReadingResponse.tex" 1763734537.65521 22276 240d37db45f1ff11ec9addba1f69c86d ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -94,9 +94,9 @@
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "/usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1745761497 5854851 9405beb4c6cd273e0bd26aa5e146f3e8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1745761447.97632 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "ReadingResponse.aux" 1763734194.03623 284 6c7905be83e0a1d893f826819bb2d018 "xelatex"
-  "ReadingResponse.out" 1763734194.03623 179 60cd15b441698c636f5aa11e3f502e19 "xelatex"
-  "ReadingResponse.tex" 1763734174.40443 22276 e7ffb5647de60bbe4864ac9965e4b168 ""
+  "ReadingResponse.aux" 1763734544.20315 284 6c7905be83e0a1d893f826819bb2d018 "xelatex"
+  "ReadingResponse.out" 1763734544.20315 179 60cd15b441698c636f5aa11e3f502e19 "xelatex"
+  "ReadingResponse.tex" 1763734537.65521 22276 240d37db45f1ff11ec9addba1f69c86d ""
   (generated)
   "ReadingResponse.aux"
   "ReadingResponse.log"
